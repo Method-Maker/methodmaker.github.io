@@ -1,0 +1,10 @@
+document.write('<h3 class="title">News</h3>')
+document.write('<h4>Unified Registry Framework Architectural Design Specifications Released</h4>')
+document.write('<p>Wed 25 April 2008 - The first draft of the Method Smart compliant registry framework design and specification documents are available to selected clients. Requests can be email to: info (@) methodmaker - co - nz.</p>')	
+document.write('<h4>UML Modelling Workshops To Be Established</h4>')
+document.write('<p>Mon 18 February 2008 - A three day hands-on UML modelling workshop is to be established in Auckland and Wellington, New Zealand.</p>')	
+document.write('<h4>Method Smart Open Source Environment</h4>')
+document.write('<p>Wed 23 August 2006 - Method Maker announces the establishment of the \"Method Smart\" open source run-time environment for data centres</p>')	
+document.write('<h4>The adoption and use of open source technology</h4>')
+document.write('<p>Tuesday 1st August 2006 - Method Maker to develop a position paper for government around the practical adoption and use of open source technologies within the enterprise</p>')
+
